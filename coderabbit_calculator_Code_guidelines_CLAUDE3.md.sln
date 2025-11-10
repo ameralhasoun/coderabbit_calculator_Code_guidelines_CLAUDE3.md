@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coderabbit_calculator_Code_guidelines_CLAUDE3.md", "coderabbit_calculator_Code_guidelines_CLAUDE3.md.csproj", "{65BEA1FD-432D-05D1-9D2A-CFF5350F98A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65BEA1FD-432D-05D1-9D2A-CFF5350F98A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65BEA1FD-432D-05D1-9D2A-CFF5350F98A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65BEA1FD-432D-05D1-9D2A-CFF5350F98A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65BEA1FD-432D-05D1-9D2A-CFF5350F98A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF38082D-29DC-4910-AE93-B28EA278BBBF}
+	EndGlobalSection
+EndGlobal
